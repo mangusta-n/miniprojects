@@ -26,6 +26,7 @@ Country — страна, где проживает клиент
 * Проанализировать динамику выручки и продаж в динамике в течение года.   
 * Оценить новых и повторных клиентов в динамике за 2011 год.  
 * Построить таблицу Retention rate средствами SQL.
+* Визуализация в redash
 
 ### Используемые библиотеки и пр.
-*SQL(Clickhouse), pandahouse, pandas, numpy, seaborn, matplotlib, redash*
+*SQL(Clickhouse), pandahouse, pandas, numpy, seaborn, matplotlib, redash (скрины дашборда)*
