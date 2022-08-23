@@ -8,3 +8,4 @@
 | Название проекта | Описание | Используемые библиотеки | Вид проекта | 
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
 | [Когортный анализ E-commerce](sql_cohort_analys_ecommerce) | Анализ продаж на внутреннем рынке, сгруппировав покупателей в когорты по числу покупок - средствами SQL (Clickhouse). Рестроспективный анализ динамики выручки и продаж. Новые и повторные клиенты, Retention rate средствами SQL| *SQL(Clickhouse), pandahouse, pandas, numpy, seaborn, matplotlib, redash*| Karpov Courses|
+| [Retention матрица. Кластеризация(RFM, KMean)](retention_and_segmentation_rfm_kmeans) | Изучение Customer Retention (процент удержания клиентов в ретроспективе). Деление клиентов на сегменты в зависимости от частоты давности и суммы покупок. RFM-анализ и метод кластеризации K-means| * pandas, numpy, seaborn, matplotlib, plotly, sklearn*| Pet Project|
