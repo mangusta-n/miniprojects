@@ -1,4 +1,6 @@
-### Описание данных
+## Когортный анализ E-commerce
+
+### Данные
 **E-Commerce Data** This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.'
 
 Имеются следующие данные о транзакциях в период с 01.12.2010 по 12.09.2011:
