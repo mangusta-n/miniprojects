@@ -2,6 +2,8 @@
 
 Среди проектов есть как учебные, так и рабочие, и личные пет-проджекты.
 
+Визуализация в Tableau https://public.tableau.com/app/profile/anastasiya.arsenjeva
+
 ## Описание проектов
 
 
